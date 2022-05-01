@@ -1,6 +1,6 @@
 # PySpark_pagerank
 
-In this assignment, Sai (ss6365) and Nickolo (nr2080) are working on a project to implement PageRank algorithm in PySpark.
+In this assignment, Sai (ss6365) and Nickolo (nr2810) are working on a project to implement PageRank algorithm in PySpark.
 
 
 ## Question 1 
@@ -75,3 +75,7 @@ The final pagerank algorthms takes about 1 hour and 1 minute.
 
 ![alt text](./images/pagerank.png)
 
+
+## Question 9 
+
+Total 1634800 elements with pagerank value of greater than 0.5
